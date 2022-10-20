@@ -1,5 +1,5 @@
 # Rocks
-Rocks props around the mine shaft, working together with my mining script that will come soon.
+Rocks props around the mine shaft, working together with my mining script.
 #
 Some pictures of the rocks and the place as well:
 https://cdn.discordapp.com/attachments/778514772408008716/1028207073885966397/Screenshot_120.png
